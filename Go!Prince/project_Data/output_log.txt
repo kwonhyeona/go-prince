@@ -1,0 +1,116 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4483
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.179 seconds
+Platform assembly: C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sansung\Desktop\Go!Prince\project_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'UIManager') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 2.364069 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 564 -> priority: 1 
+Click Start Button
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'FirstCamera') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'FirstCamera') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Eff_DamagePre') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.662824 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5102.
+Total: 3.020517 ms (FindLiveObjects: 0.579470 ms CreateObjectMapping: 0.215537 ms MarkObjects: 2.166065 ms  DeleteObjects: 0.057733 ms)
+
+눈 맞았오!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+눈 맞았오!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+눈 맞았오!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+나쁜놈이때렸다!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+눈 맞았오!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+눈 맞았오!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+나쁜놈이때렸다!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+나쁜놈이때렸다!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+나쁜놈이때렸다!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+나쁜놈이때렸다!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+나쁜놈이때렸다!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+나쁜놈이때렸다!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+나쁜놈이때렸다!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+나쁜놈이때렸다!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+나쁜놈이때렸다!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
