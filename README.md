@@ -1,12 +1,23 @@
 # go-prince
 ![image](./info_img/go_prince_img1.png)
-![image](./go_prince_img2.png)
+![image](./info_img/go_prince_img2.png)
 
 ## 소개
 `악당들을 물리치고 공주를 구하러 가는 왕자가 주인공인 Unity 게임`입니다.
 
 ## 개발환경
 ![image](./info_img/unity.jpg)
+
+## 개발인원
+개발 2명([권현아](https://github.com/kwonhyeona), [고민주](https://github.com/minju54))
+
+## 주요기능
+* MVC패턴 기반으로 파일 생성 및 코드 구현
+* 컴포넌트 기반으로 오브젝트 제어 및 코드 구현
+* Unity의 생명주기 활용
+* rigidbody를 이용한 충돌 구현
+* 적과 왕자가 서로를 추적
+* 카메라 제어
 
 ## 주요코드
 ```csharp
@@ -50,5 +61,15 @@ IEnumerator CheckBadGuyState() {
         yield return new WaitForSeconds(0.2f);
         ...
     }
+}
+```
+
+```csharp
+// Vector3.Lerp() 를 이용해 카메라를 제어했습니다.
+void Update () {
+    secondCameraTr.position = Vector3.Lerp(secondCameraTr.position,
+                                princeTR.position - (princeTR.forward * dist) + (Vector3.up * height ),
+                                Time.deltaTime * dampTrace);
+    secondCameraTr.LookAt(princeTR.position);
 }
 ```
