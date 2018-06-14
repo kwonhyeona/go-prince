@@ -9,7 +9,8 @@
 ![image](./info_img/unity.jpg)
 
 ## 개발인원
-개발 2명([권현아](https://github.com/kwonhyeona), [고민주](https://github.com/minju54))
+* [권현아](https://github.com/kwonhyeona)
+* [고민주](https://github.com/minju54)
 
 ## 주요기능
 * MVC패턴 기반으로 파일 생성 및 코드 구현
